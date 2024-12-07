@@ -4,8 +4,8 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 📝 I regularly write articles on [https://medium.com/@kumarsinghdeepak659/](https://medium.com/@kumarsinghdeepak659/)
-
 - 📫 How to reach me **kumarsinghdeepak65@gmail.com**
+- <a href="https://wakatime.com/@a14e3a87-7742-4af6-b9e2-2398308aaeab"><img src="https://wakatime.com/badge/user/a14e3a87-7742-4af6-b9e2-2398308aaeab.svg" alt="Total time coded since Sep 13 2024" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
